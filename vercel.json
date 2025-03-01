@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/m3u8/:videoId",
+        "destination": "https://wqqerweashmqmcnkdpmu.supabase.co/storage/v1/object/public/woori/:videoId.m3u8"
+      }
+    ]
+  }
+  
